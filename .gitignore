@@ -1315,13 +1315,4 @@ Maze_Introduction/src/__pycache__/Maze.cpython-39.pyc
 Maze_Introduction/src/__pycache__/Node.cpython-39.pyc
 Maze_Introduction/src/__pycache__/QueueFrontier.cpython-39.pyc
 Maze_Introduction/src/__pycache__/StackFrontier.cpython-39.pyc
-/.idea/
-/.idea/.gitignore
-/.idea/aws.xml
-/.idea/EDX_CS50AI_2020.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/runConfigurations.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
-/Maze_Introduction/src/maze.png
+Maze_Introduction/src/maze.png
